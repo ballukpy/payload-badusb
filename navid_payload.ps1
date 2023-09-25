@@ -30,7 +30,7 @@
 
 # this is the message that will be coded into the image you use as the wallpaper
 
-$hiddenMessage = "`n`nNegar, since I saw you, you became the main subject of my imagination `nI would like to get to know you more... `nIf you are proud of this little hacker, send him a message on Telegram @You_OWND `n with love -Navid"
+$hiddenMessage = "`n`nNegar, since I saw you, you became the main subject of my imagination `nI would like to get to know you more... `nIf you are proud of this little hacker, send him a message on Telegram  `n with love -Navid"
 
 # this will be the name of the image you use as the wallpaper
 
